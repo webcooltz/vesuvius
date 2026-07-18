@@ -23,6 +23,7 @@ setup(
     version='0.1.8',
     package_dir = {"": "src"},
     packages=find_packages(where="src"),
+    py_modules=['vesuvius_accept_terms'],
     install_requires=[
         'numpy',
         'requests',
@@ -44,7 +45,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
-            'vesuvius.accept_terms=vesuvius.setup.accept_terms:main',
+            'vesuvius.accept_terms=vesuvius_accept_terms:main',
         ],
     },
     classifiers=[

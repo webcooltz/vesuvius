@@ -1,2 +1,318 @@
-
-
+'1':
+  '54':
+    '7.91':
+      segments:
+        '20230503225234': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230503225234.zarr/
+        '20230504093154': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230504093154.zarr/
+        '20230504094316': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230504094316.zarr/
+        '20230504125349': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230504125349.zarr/
+        '20230504171956': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230504171956.zarr/
+        '20230504223647': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230504223647.zarr/
+        '20230504225948': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230504225948.zarr/
+        '20230504231922': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230504231922.zarr/
+        '20230505093556': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230505093556.zarr/
+        '20230505113642': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230505113642.zarr/
+        '20230505131816': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230505131816.zarr/
+        '20230505135219': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230505135219.zarr/
+        '20230505141722': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230505141722.zarr/
+        '20230505164332': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230505164332.zarr/
+        '20230505175240': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230505175240.zarr/
+        '20230506133355': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230506133355.zarr/
+        '20230507172452': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230507172452.zarr/
+        '20230507175928': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230507175928.zarr/
+        '20230508164013': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230508164013.zarr/
+        '20230508220213': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230508220213.zarr/
+        '20230509160956': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230509160956.zarr/
+        '20230509182749': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230509182749.zarr/
+        '20230510153006': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230510153006.zarr/
+        '20230510153843': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230510153843.zarr/
+        '20230510170242': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230510170242.zarr/
+        '20230511085916': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230511085916.zarr/
+        '20230511094040': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230511094040.zarr/
+        '20230511201612': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230511201612.zarr/
+        '20230511204029': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230511204029.zarr/
+        '20230511211540': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230511211540.zarr/
+        '20230511215040': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230511215040.zarr/
+        '20230511224701': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230511224701.zarr/
+        '20230512094635': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230512094635.zarr/
+        '20230512105719': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230512105719.zarr/
+        '20230512111225': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230512111225.zarr/
+        '20230512112647': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230512112647.zarr/
+        '20230512120728': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230512120728.zarr/
+        '20230512123446': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230512123446.zarr/
+        '20230512123540': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230512123540.zarr/
+        '20230512170431': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230512170431.zarr/
+        '20230513092954': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230513092954.zarr/
+        '20230513095916': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230513095916.zarr/
+        '20230513164153': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230513164153.zarr/
+        '20230514173038': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230514173038.zarr/
+        '20230514182829': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230514182829.zarr/
+        '20230515162442': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230515162442.zarr/
+        '20230516112444': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230516112444.zarr/
+        '20230516114341': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230516114341.zarr/
+        '20230516115453': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230516115453.zarr/
+        '20230517021606': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230517021606.zarr/
+        '20230517024455': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230517024455.zarr/
+        '20230517025833': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230517025833.zarr/
+        '20230517180019': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230517180019.zarr/
+        '20230517204451': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230517204451.zarr/
+        '20230517205601': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230517205601.zarr/
+        '20230518012543': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230518012543.zarr/
+        '20230518075340': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230518075340.zarr/
+        '20230518104908': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230518104908.zarr/
+        '20230518130337': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230518130337.zarr/
+        '20230518135715': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230518135715.zarr/
+        '20230518181521': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230518181521.zarr/
+        '20230518191548': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230518191548.zarr/
+        '20230518223227': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230518223227.zarr/
+        '20230519031042': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230519031042.zarr/
+        '20230519140147': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230519140147.zarr/
+        '20230519195952': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230519195952.zarr/
+        '20230519202000': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230519202000.zarr/
+        '20230519212155': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230519212155.zarr/
+        '20230519213404': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230519213404.zarr/
+        '20230519215753': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230519215753.zarr/
+        '20230520132429': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230520132429.zarr/
+        '20230520175435': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230520175435.zarr/
+        '20230520191415': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230520191415.zarr/
+        '20230520192625': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230520192625.zarr/
+        '20230521093501': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230521093501.zarr/
+        '20230521104548': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230521104548.zarr/
+        '20230521113334': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230521113334.zarr/
+        '20230521114306': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230521114306.zarr/
+        '20230521155616': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230521155616.zarr/
+        '20230521182226': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230521182226.zarr/
+        '20230521193032': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230521193032.zarr/
+        '20230522055405': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230522055405.zarr/
+        '20230522151031': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230522151031.zarr/
+        '20230522152820': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230522152820.zarr/
+        '20230522181603': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230522181603.zarr/
+        '20230522210033': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230522210033.zarr/
+        '20230522215721': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230522215721.zarr/
+        '20230523002821': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230523002821.zarr/
+        '20230523020515': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230523020515.zarr/
+        '20230523034033': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230523034033.zarr/
+        '20230523043449': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230523043449.zarr/
+        '20230523182629': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230523182629.zarr/
+        '20230523191325': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230523191325.zarr/
+        '20230523233708': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230523233708.zarr/
+        '20230524004853': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230524004853.zarr/
+        '20230524005636': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230524005636.zarr/
+        '20230524092434': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230524092434.zarr/
+        '20230524163814': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230524163814.zarr/
+        '20230524173051': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230524173051.zarr/
+        '20230524200918': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230524200918.zarr/
+        '20230525051821': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230525051821.zarr/
+        '20230525115626': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230525115626.zarr/
+        '20230525121901': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230525121901.zarr/
+        '20230525190724': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230525190724.zarr/
+        '20230525194033': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230525194033.zarr/
+        '20230525200512': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230525200512.zarr/
+        '20230525212209': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230525212209.zarr/
+        '20230525234349': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230525234349.zarr/
+        '20230526002441': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230526002441.zarr/
+        '20230526015925': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230526015925.zarr/
+        '20230526154635': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230526154635.zarr/
+        '20230526164930': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230526164930.zarr/
+        '20230526175622': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230526175622.zarr/
+        '20230526183725': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230526183725.zarr/
+        '20230526205020': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230526205020.zarr/
+        '20230527020406': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230527020406.zarr/
+        '20230528112855': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230528112855.zarr/
+        '20230529203721': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230529203721.zarr/
+        '20230530025328': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230530025328.zarr/
+        '20230530164535': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230530164535.zarr/
+        '20230530172803': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230530172803.zarr/
+        '20230530212931': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230530212931.zarr/
+        '20230531101257': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230531101257.zarr/
+        '20230531121653': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230531121653.zarr/
+        '20230531193658': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230531193658.zarr/
+        '20230531211425': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230531211425.zarr/
+        '20230601192025': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230601192025.zarr/
+        '20230601193301': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230601193301.zarr/
+        '20230601201143': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230601201143.zarr/
+        '20230601204340': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230601204340.zarr/
+        '20230602092221': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230602092221.zarr/
+        '20230602213452': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230602213452.zarr/
+        '20230603153221': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230603153221.zarr/
+        '20230604111512': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230604111512.zarr/
+        '20230604112252': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230604112252.zarr/
+        '20230604161948': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230604161948.zarr/
+        '20230605065957': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230605065957.zarr/
+        '20230606105130': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230606105130.zarr/
+        '20230606222610': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230606222610.zarr/
+        '20230608150300': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230608150300.zarr/
+        '20230608200454': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230608200454.zarr/
+        '20230608222722': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230608222722.zarr/
+        '20230609123853': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230609123853.zarr/
+        '20230611014200': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230611014200.zarr/
+        '20230611145109': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230611145109.zarr/
+        '20230612195231': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230612195231.zarr/
+        '20230613144727': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230613144727.zarr/
+        '20230613204956': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230613204956.zarr/
+        '20230619113941': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230619113941.zarr/
+        '20230619163051': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230619163051.zarr/
+        '20230620230617': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230620230617.zarr/
+        '20230620230619': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230620230619.zarr/
+        '20230621111336': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230621111336.zarr/
+        '20230621122303': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230621122303.zarr/
+        '20230621182552': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230621182552.zarr/
+        '20230623123730': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230623123730.zarr/
+        '20230623160629': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230623160629.zarr/
+        '20230624144604': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230624144604.zarr/
+        '20230624160816': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230624160816.zarr/
+        '20230624190349': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230624190349.zarr/
+        '20230625171244': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230625171244.zarr/
+        '20230625194752': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230625194752.zarr/
+        '20230626140105': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230626140105.zarr/
+        '20230626151618': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230626151618.zarr/
+        '20230627122904': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230627122904.zarr/
+        '20230627170800': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230627170800.zarr/
+        '20230627202005': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230627202005.zarr/
+        '20230629215956': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230629215956.zarr/
+        '20230701020044': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230701020044.zarr/
+        '20230701115953': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230701115953.zarr/
+        '20230702182347': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230702182347.zarr/
+        '20230702185753': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230702185753.zarr/
+        '20230705142414': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230705142414.zarr/
+        '20230706165709': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230706165709.zarr/
+        '20230707113838': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230707113838.zarr/
+        '20230709211458': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230709211458.zarr/
+        '20230711201157': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230711201157.zarr/
+        '20230711210222': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230711210222.zarr/
+        '20230711222033': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230711222033.zarr/
+        '20230712124010': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230712124010.zarr/
+        '20230712210014': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230712210014.zarr/
+        '20230713152725': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230713152725.zarr/
+        '20230717092556': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230717092556.zarr/
+        '20230719103041': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230719103041.zarr/
+        '20230719214603': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230719214603.zarr/
+        '20230720215300': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230720215300.zarr/
+        '20230721122533': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230721122533.zarr/
+        '20230721143008': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230721143008.zarr/
+        '20230801193640': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230801193640.zarr/
+        '20230806094533': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230806094533.zarr/
+        '20230806132553': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230806132553.zarr/
+        '20230808163057': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230808163057.zarr/
+        '20230812170020': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230812170020.zarr/
+        '20230819093803': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230819093803.zarr/
+        '20230819210052': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230819210052.zarr/
+        '20230820091651': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230820091651.zarr/
+        '20230820174948': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230820174948.zarr/
+        '20230820203112': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230820203112.zarr/
+        '20230826135043': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230826135043.zarr/
+        '20230826170124': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230826170124.zarr/
+        '20230826211400': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230826211400.zarr/
+        '20230827161847': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230827161847.zarr/
+        '20230828154913': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230828154913.zarr/
+        '20230901184804': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230901184804.zarr/
+        '20230901234823': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230901234823.zarr/
+        '20230902141231': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230902141231.zarr/
+        '20230903193206': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230903193206.zarr/
+        '20230904020426': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230904020426.zarr/
+        '20230904135535': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230904135535.zarr/
+        '20230905134255': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230905134255.zarr/
+        '20230909121925': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230909121925.zarr/
+        '20230918021838': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230918021838.zarr/
+        '20230918022237': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230918022237.zarr/
+        '20230918023430': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230918023430.zarr/
+        '20230918024753': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230918024753.zarr/
+        '20230918140728': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230918140728.zarr/
+        '20230918143910': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230918143910.zarr/
+        '20230918145743': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230918145743.zarr/
+        '20230919113918': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230919113918.zarr/
+        '20230922174128': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230922174128.zarr/
+        '20230925002745': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230925002745.zarr/
+        '20230925090314': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230925090314.zarr/
+        '20230926164631': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230926164631.zarr/
+        '20230926164853': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230926164853.zarr/
+        '20230929220926': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20230929220926.zarr/
+        '20231001164029': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20231001164029.zarr/
+        '20231004222109': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20231004222109.zarr/
+        '20231005123336': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20231005123336.zarr/
+        '20231007101619': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20231007101619.zarr/
+        '20231011111857': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20231011111857.zarr/
+        '20231011144857': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20231011144857.zarr/
+        '20231012085431': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20231012085431.zarr/
+        '20231012173610': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20231012173610.zarr/
+        '20231012184420': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20231012184420.zarr/
+        '20231012184424': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20231012184424.zarr/
+        '20231016151002': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20231016151002.zarr/
+        '20231022170901': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20231022170901.zarr/
+        '20231024093300': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20231024093300.zarr/
+        '20231031143852': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20231031143852.zarr/
+        '20231106155351': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20231106155351.zarr/
+        '20231205141500': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20231205141500.zarr/
+        '20231206155550': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20231206155550.zarr/
+        '20231210121321': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20231210121321.zarr/
+        '20231221180251': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20231221180251.zarr/
+        '20240101215220': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20240101215220.zarr/
+        '20240102231959': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20240102231959.zarr/
+        '20240107134630': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20240107134630.zarr/
+        '20240109095720': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20240109095720.zarr/
+        '20240110113230': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20240110113230.zarr/
+        '20240116164433': https://dl.ash2txt.org/other/dev/scrolls/1/segments/54keV_7.91um/20240116164433.zarr/
+      volume: https://dl.ash2txt.org/other/dev/scrolls/1/volumes/54keV_7.91um.zarr/
+1b:
+  '54':
+    '7.91':
+      segments: {}
+      volume: https://dl.ash2txt.org/other/dev/scrolls/1b/volumes/54keV_7.91um.zarr/
+'2':
+  '54':
+    '7.91':
+      segments: {}
+      volume: https://dl.ash2txt.org/other/dev/scrolls/2/volumes/54keV_7.91um.zarr/
+2b:
+  '54':
+    '7.91':
+      segments: {}
+      volume: https://dl.ash2txt.org/other/dev/scrolls/2b/volumes/54keV_7.91um.zarr/
+2c:
+  '88':
+    '7.91':
+      segments: {}
+      volume: https://dl.ash2txt.org/other/dev/scrolls/2c/volumes/88keV_7.91um.zarr/
+'3':
+  '53':
+    '3.24':
+      segments: {}
+      volume: https://dl.ash2txt.org/other/dev/scrolls/3/volumes/53keV_3.24um.zarr/
+  '70':
+    '3.24':
+      segments: {}
+      volume: https://dl.ash2txt.org/other/dev/scrolls/3/volumes/70keV_3.24um.zarr/
+'4':
+  '53':
+    '7.91':
+      segments: {}
+      volume: https://dl.ash2txt.org/other/dev/scrolls/4/volumes/53keV_7.91um.zarr/
+  '88':
+    '3.24':
+      segments: {}
+      volume: https://dl.ash2txt.org/other/dev/scrolls/4/volumes/88keV_3.24um.zarr/
+'5':
+  '53':
+    '7.91':
+      segments:
+        '20241025062040': https://dl.ash2txt.org/other/dev/scrolls/5/segments/53keV_7.91um/20241025062040.zarr/
+        '20241025101030': https://dl.ash2txt.org/other/dev/scrolls/5/segments/53keV_7.91um/20241025101030.zarr/
+        '20241025145341': https://dl.ash2txt.org/other/dev/scrolls/5/segments/53keV_7.91um/20241025145341.zarr/
+        '20241025145701': https://dl.ash2txt.org/other/dev/scrolls/5/segments/53keV_7.91um/20241025145701.zarr/
+        '20241025150211': https://dl.ash2txt.org/other/dev/scrolls/5/segments/53keV_7.91um/20241025150211.zarr/
+        '20241030083650': https://dl.ash2txt.org/other/dev/scrolls/5/segments/53keV_7.91um/20241030083650.zarr/
+        '20241030152030': https://dl.ash2txt.org/other/dev/scrolls/5/segments/53keV_7.91um/20241030152030.zarr/
+        '20241030152031': https://dl.ash2txt.org/other/dev/scrolls/5/segments/53keV_7.91um/20241030152031.zarr/
+        '20241101163240': https://dl.ash2txt.org/other/dev/scrolls/5/segments/53keV_7.91um/20241101163240.zarr/
+        '20241102125650': https://dl.ash2txt.org/other/dev/scrolls/5/segments/53keV_7.91um/20241102125650.zarr/
+        '20241102160330': https://dl.ash2txt.org/other/dev/scrolls/5/segments/53keV_7.91um/20241102160330.zarr/
+        '20241105112301': https://dl.ash2txt.org/other/dev/scrolls/5/segments/53keV_7.91um/20241105112301.zarr/
+        '20241108111522': https://dl.ash2txt.org/other/dev/scrolls/5/segments/53keV_7.91um/20241108111522.zarr/
+        '20241108115232': https://dl.ash2txt.org/other/dev/scrolls/5/segments/53keV_7.91um/20241108115232.zarr/
+        '20241108120730': https://dl.ash2txt.org/other/dev/scrolls/5/segments/53keV_7.91um/20241108120730.zarr/
+        '20241108120731': https://dl.ash2txt.org/other/dev/scrolls/5/segments/53keV_7.91um/20241108120731.zarr/
+        '20241108120732': https://dl.ash2txt.org/other/dev/scrolls/5/segments/53keV_7.91um/20241108120732.zarr/
+        '20241113070770': https://dl.ash2txt.org/other/dev/scrolls/5/segments/53keV_7.91um/20241113070770.zarr/
+        '20241113080880': https://dl.ash2txt.org/other/dev/scrolls/5/segments/53keV_7.91um/20241113080880.zarr/
+        '20241113090990': https://dl.ash2txt.org/other/dev/scrolls/5/segments/53keV_7.91um/20241113090990.zarr/
+      volume: https://dl.ash2txt.org/other/dev/scrolls/5/volumes/53keV_7.91um.zarr/
